@@ -58,3 +58,6 @@ any documentation you want to write about your project.
 * [`Inheriting box-sizing Probably Slightly Better Best-Practice`](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 * [`A Complete Guide to Flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [`AUsing Modernizr with Flexbox`](http://zomigi.com/blog/using-modernizr-with-flexbox/)
+
+### Sass
+* [`Sass Guidelines`](https://sass-guidelin.es/)

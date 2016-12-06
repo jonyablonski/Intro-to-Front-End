@@ -43,7 +43,18 @@ There are five directories: a demo directory containing the final project, a boi
 
 ## Documentation
 
-Take a look at the [documentation table of contents](dist/doc/TOC.md).
+Take a look at the [documentation table of contents](Docs/TOC.md).
 This documentation is bundled with the project, which makes it readily
 available for offline reading and provides a useful starting point for
 any documentation you want to write about your project.
+
+
+## Further Reading
+
+### HTML
+* [`HTML5 Boilerplate`](https://html5boilerplate.com/)
+
+### CSS
+* [`Inheriting box-sizing Probably Slightly Better Best-Practice`](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+* [`A Complete Guide to Flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [`AUsing Modernizr with Flexbox`](http://zomigi.com/blog/using-modernizr-with-flexbox/)

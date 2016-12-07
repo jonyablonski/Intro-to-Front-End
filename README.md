@@ -56,6 +56,7 @@ any documentation you want to write about your project.
 * [`HTML Arrows (HTML Special Characters Reference)`](http://htmlarrows.com/)
 * [`Getting started with ARIA`](http://a11yproject.com/posts/getting-started-aria/)
 * [`Using ARIA (MDN)`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques)
+* [`MindBEMding – getting your head ’round BEM syntax`](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
 ### CSS
 * [`Inheriting box-sizing Probably Slightly Better Best-Practice`](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)

@@ -53,9 +53,9 @@ any documentation you want to write about your project.
 
 ### HTML
 * [`HTML5 Boilerplate`](https://html5boilerplate.com/)
-* [HTML Arrows (HTML Special Characters Reference)](http://htmlarrows.com/)
-* [Getting started with ARIA](http://a11yproject.com/posts/getting-started-aria/)
-* [Using ARIA (MDN)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques)
+* [`HTML Arrows (HTML Special Characters Reference)`](http://htmlarrows.com/)
+* [`Getting started with ARIA`](http://a11yproject.com/posts/getting-started-aria/)
+* [`Using ARIA (MDN)`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques)
 
 ### CSS
 * [`Inheriting box-sizing Probably Slightly Better Best-Practice`](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)

@@ -1,0 +1,53 @@
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.grid li {
+	margin: 0 0 1.5em;
+}
+
+.grid li img {
+	margin: 0 0 .5em;
+	transition: box-shadow .3s ease-in-out;
+}
+
+.grid li a:hover img {
+	box-shadow: 0 2px 10px 0 rgba(0,0,0, 0.2);
+}
+
+@media only screen and (min-width: 30em) {
+
+	/* Main Content Styles */
+	.grid li {
+		width: 48%;
+	}
+
+}
+
+@media only screen and (min-width: 64em) {
+
+	/* Components */
+	.slat li {
+		display: flex;
+	}
+
+	.slat__header {
+		flex: 38% 0 0;
+	}
+
+	/* Main Content Styles */
+	.intro {
+		display: flex;
+	}
+
+	.intro__main {
+		flex: 38% 0 0;
+	}
+
+	.grid li {
+		width: 32%;
+	}
+
+}

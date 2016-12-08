@@ -1,0 +1,24 @@
+.header {
+	display: flex;
+	align-items: center;
+	padding: 1.5em 1em;
+	margin: 0 0 2em;
+	background-color: white;
+}
+
+.header__logo {
+	display: block;
+	margin: 0 auto 0 0;
+}
+
+.header__nav a {
+	padding: 0 .5em;
+	margin-left: 1em;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+	font-size: .9em;
+}
+
+.header__nav a.is-active {
+	color: #999;
+}

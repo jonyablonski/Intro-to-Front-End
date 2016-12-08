@@ -1,0 +1,21 @@
+.slat {
+	margin: 0;
+}
+
+.slat li {
+	margin: 0 0 1em;
+	padding: 1em 0;
+	border-bottom: 1px solid #ccc;
+}
+
+.slat li:last-child {
+	border: none;
+}
+
+.slat__header {
+	margin: 0 0 1em;
+}
+
+.slat__title {
+	margin: 0;
+}

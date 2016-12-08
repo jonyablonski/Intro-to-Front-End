@@ -7,7 +7,7 @@
  */
 
 .hidden {
-    display: none !important;
+	display: none !important;
 }
 
 /*
@@ -20,15 +20,15 @@
  */
 
 .visuallyhidden {
-    border: 0;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-    white-space: nowrap; /* 1 */
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+	white-space: nowrap; /* 1 */
 }
 
 /*
@@ -39,13 +39,13 @@
 
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
-    clip: auto;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    position: static;
-    width: auto;
-    white-space: inherit;
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: visible;
+	position: static;
+	width: auto;
+	white-space: inherit;
 }
 
 /*
@@ -53,7 +53,7 @@
  */
 
 .invisible {
-    visibility: hidden;
+	visibility: hidden;
 }
 
 /*
@@ -70,10 +70,38 @@
 
 .clearfix:before,
 .clearfix:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
+	content: " "; /* 1 */
+	display: table; /* 2 */
 }
 
 .clearfix:after {
-    clear: both;
+	clear: both;
+}
+
+
+.text-flush {
+	margin: 0;
+}
+
+.text-meta {
+	margin: 0;
+	font-size: .825em;
+	text-transform: uppercase;
+	letter-spacing: .01em;
+	color: #999;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.image-block {
+	display: block;
+	margin: 0 0 2em;
+}
+
+.container {
+	max-width: 64em;
+	margin: 0 auto;
+	padding: 0 1em;
 }

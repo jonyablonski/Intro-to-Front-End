@@ -53,16 +53,21 @@ any documentation you want to write about your project.
 
 ### General
 * [`Can I Use`](http://caniuse.com/)
+* [`CodePen`](https://codepen.io/)
 
 ### HTML
 * [`HTML5 Boilerplate`](https://html5boilerplate.com/)
+* [`HTML Element Reference`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [`HTML Arrows (HTML Special Characters Reference)`](http://htmlarrows.com/)
 * [`Getting started with ARIA`](http://a11yproject.com/posts/getting-started-aria/)
 * [`Using ARIA (MDN)`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques)
 * [`MindBEMding – getting your head ’round BEM syntax`](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
 ### CSS
+* [`Opening the Box Model`](http://learn.shayhowe.com/html-css/opening-the-box-model/)
+* [`Positioning Content`](http://learn.shayhowe.com/html-css/positioning-content/)
 * [`Inheriting box-sizing Probably Slightly Better Best-Practice`](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+* [`Using Media Queries`](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [`A Complete Guide to Flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [`Using Modernizr with Flexbox`](http://zomigi.com/blog/using-modernizr-with-flexbox/)
 

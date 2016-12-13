@@ -2,7 +2,7 @@
 	display: inline-block;
 	margin: 0 0 1em;
 	padding: 1em 2em;
-	background-color: #ff5252;
+	background-color:  $base-accent-color;
 	color: white;
 	border-radius: .2em;
 	transition: background-color .3s ease-in-out;
@@ -14,5 +14,5 @@
 .btn:hover,
 .btn:focus {
 	color: white;
-	background-color: #cc4141;
+	background-color: saturate($base-accent-color, 10%);
 }
